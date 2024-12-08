@@ -1,3 +1,4 @@
+---
 
 ## STEM Bot
 
@@ -56,7 +57,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For questions or suggestions, feel free to reach out:
 
-- **Email**: elijahechekwu30@gmail.com
-- **GitHub Issues**: [Submit an Issue](https://github.com/your-repository/issues)
+Email: elijahechekwu30@gmail.com
 
----
+GitHub Issues: Submit an Issue
